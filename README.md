@@ -78,22 +78,30 @@ plt.show()
 
 ### OUTPUT:
 
-![image](https://github.com/user-attachments/assets/5470a9db-1ca0-4cb9-b910-7cb00fec02d4)
+
+![image](https://github.com/user-attachments/assets/05130326-427f-4e4b-ba1f-eb10930244a6)
+
 
 
 
 REGULAR DIFFERENCING:
 
-![image](https://github.com/user-attachments/assets/d06f564f-7be9-4146-a561-33de4b7fe386)
+
+![image](https://github.com/user-attachments/assets/af4bb54e-b48c-4e20-8816-5203e985e1c2)
+
 
 SEASONAL ADJUSTMENT:
 
-![image](https://github.com/user-attachments/assets/a1e326e2-7846-46f0-9e16-589547163702)
+
+![image](https://github.com/user-attachments/assets/2a9bcc6e-5308-47b3-b53d-9d2ef1e90fad)
+
 
 
 LOG TRANSFORMATION:
 
-![image](https://github.com/user-attachments/assets/41ba288d-ba31-446c-a68b-53d7c70a3240)
+
+![image](https://github.com/user-attachments/assets/a81ac1b4-dc92-498f-bef0-f439084ade53)
+
 
 
 ### RESULT:
