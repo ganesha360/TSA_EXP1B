@@ -84,20 +84,20 @@ plt.show()
 
 
 
-REGULAR DIFFERENCING:
+### REGULAR DIFFERENCING:
 
 
 ![image](https://github.com/user-attachments/assets/af4bb54e-b48c-4e20-8816-5203e985e1c2)
 
 
-SEASONAL ADJUSTMENT:
+### SEASONAL ADJUSTMENT:
 
 
 ![image](https://github.com/user-attachments/assets/2a9bcc6e-5308-47b3-b53d-9d2ef1e90fad)
 
 
 
-LOG TRANSFORMATION:
+### LOG TRANSFORMATION:
 
 
 ![image](https://github.com/user-attachments/assets/a81ac1b4-dc92-498f-bef0-f439084ade53)
