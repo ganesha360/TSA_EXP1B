@@ -6,7 +6,7 @@
 # Date: 
 
 ### AIM:
-To perform regular differncing,seasonal adjustment and log transformatio on Water temperature for water quality data.
+To perform regular differncing,seasonal adjustment and log transformatio on Amazon stock price.
 
 ### ALGORITHM:
 
@@ -105,5 +105,5 @@ plt.show()
 
 
 ### RESULT:
-Thus we have created the python code for the conversion of non stationary to stationary data on Water Quality data.
+Thus we have created the python code for the conversion of non stationary to stationary data on Amazon stock price data.
 
