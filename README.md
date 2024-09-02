@@ -6,7 +6,7 @@
 # Date: 
 
 ### AIM:
-To perform regular differncing,seasonal adjustment and log transformatio on Amazon stock price.
+To perform regular differncing,seasonal adjustment and log transformation on Amazon stock price data.
 
 ### ALGORITHM:
 
